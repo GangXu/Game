@@ -14,7 +14,7 @@ package
 
 			var t:FlxText;
 
-			t = new FlxText(0,FlxG.height/2-10,FlxG.width,"game");
+			t = new FlxText(0,FlxG.height/2-10,FlxG.width,"Flash 2d game test");
 			
 			t.size = 16;
 
